@@ -26,20 +26,19 @@ _ _ _
 
 ### 1.Introduction
 https://www.youtube.com/watch?v=qD6iD4TFsdQ
-- [Transitive transfer learning]()
-- [Distant Domain Transfer Learning]()
-- [A survey on transfer learning]()
+- [Transitive transfer learning](https://pan.baidu.com/s/1qYl2XPU)
+- [Distant Domain Transfer Learning](https://pan.baidu.com/s/1qYl2XPU)
+- [A survey on transfer learning](https://pan.baidu.com/s/1qYl2XPU)
 
 ### 2.Survey
 
-- [A survey on transfer learning]()
+- [A survey on transfer learning](http://www3.ntu.edu.sg/home/sinnopan/publications/TLsurvey_0822.pdf)
 - [Cross-dataset recognition: a survey](https://arxiv.org/abs/1705.04396)
 - [A survey on multi-task learning](https://arxiv.org/abs/1707.08114)
-- [A survey of transfer learning]()
-- [Transfer Learning and Reinforcement Learning](https://mega.nz/#!RDpiRDCL!LSMgyjV69YEiFE2D0quKkrr_t7bEOYtsnx8BkTxniKo)。
-- [A survey of multi-domain transfer learning](https://mega.nz/#!UPRTBIAS!HcjUwI_yGe3IrWCFfBxHF9nd8CFt0GTzjIyMMxdUuv0)
-- [Computer Vision domain adaptation survey](https://mega.nz/#!hWQ3HLhJ!GTCIUTVDcmnn3f7-Ulhjs_MxGv6xnFyp1nayemt9Nis)。
-- [Theoretical Analysis](https://mega.nz/#F!ULoGFYDK!O3TQRZwrNeqTncNMIfXNTg)
+- [Transfer Learning and Reinforcement Learning](https://pan.baidu.com/s/1qYl2XPU)。
+- [A survey of multi-domain transfer learning](https://pan.baidu.com/s/1qYl2XPU)
+- [Computer Vision domain adaptation survey](https://pan.baidu.com/s/1qYl2XPU)。
+- [Theoretical Analysis](https://pan.baidu.com/s/1qYl2XPU)
 
 _ _ _
 
@@ -78,7 +77,7 @@ _ _ _
 - Transfer Kernel Learning, TKL
 	- [Domain invariant transfer kernel learning]()
 - Deep Adaptation Network, DAN
-	- [learning transferable features with deep adaptation networks]
+	- [learning transferable features with deep adaptation networks](http://proceedings.mlr.press/v37/long15.pdf)
 
 - Joint Adaptation Network, JAN
 	- [Deep Transfer Learning with Joint Adaptation Networks](http://proceedings.mlr.press/v70/long17a.html)
