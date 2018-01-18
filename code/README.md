@@ -12,19 +12,19 @@
 #### Non-deep learning
 
 - **TCA** (Transfer Component Anaysis) [1]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyTCA.m) | [Python](https://github.com/jindongwang/transferlearning/tree/master/code/TCA_python)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyTCA.m) | [Python](https://github.com/tangzhenyu/AmazingTransferLearning/tree/master/code/TCA_python)
 - **GFK** (Geodesic Flow Kernel) [2]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyGFK.m)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyGFK.m)
 - **JDA** (Joint Distribution Adaptation) [3]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyJDA.m)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyJDA.m)
 - **TJM** (Transfer Joint Matching) [4]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyTJM.m)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyTJM.m)
 - **CORAL** (CORrelation ALignment) [5]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyCORAL.m) | [Github](https://github.com/VisionLearningGroup/CORAL)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyCORAL.m) | [Github](https://github.com/VisionLearningGroup/CORAL)
 - **JGSA** (Joint Geometrical and Statistical Alignment) [6]
-	- [Matlab](https://github.com/jindongwang/transferlearning/blob/master/code/MyJGSA.m)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/code/MyJGSA.m)
 - **ARTL** (Adaptation Regularization) [7]
-	- [Matlab](https://github.com/jindongwang/transferlearning/tree/master/code/MyARTL)
+	- [Matlab](https://github.com/tangzhenyu/AmazingTransferLearning/tree/master/code/MyARTL)
 - **TrAdaBoost** [8]
 	- [Python](https://github.com/chenchiwei/tradaboost)
 - **SA** (Subspace Alignment) [11]
@@ -42,7 +42,7 @@
 
 - - -
 
-Testing **dataset** can be found [here](https://github.com/jindongwang/transferlearning/blob/master/doc/dataset.md).
+Testing **dataset** can be found [here](https://github.com/tangzhenyu/AmazingTransferLearning/blob/master/doc/dataset.md).
 
 - - -
 
