@@ -16,6 +16,7 @@ function [acc,acc_list,A] = MyTJM(X_src,Y_src,X_tar,Y_tar,options)
 	kernel_type = options.kernel_type;    %% kernel_type is the kernel name, primal|linear|rbf
 	gamma = options.gamma;                %% gamma is the bandwidth of rbf kernel
 	T = options.T;                        %% iteration number
+	mu = options.mu;		      %% 
     
 	fprintf('TJM: dim=%d  lambda=%f\n',dim,lambda);
 
