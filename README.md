@@ -163,6 +163,36 @@ _ _ _
 
 - Decaf: A deep convolutional activation feature for generic visual recognition (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
 
+#### Action Recognition
+[ Visual event recognition in videos by learning from web data ]()</br>
+[ Importance weighted least-squares probabilistic classifier for covariate shiftAdaptation with application to human activity recognition ]()</br>
+[ Cost-sensitive Boosting for Concept Drift ]()</br>
+[ Boosting for Transfer Learning ]()</br>
+[ Interactive Event Search Through Transfer Learning ]()</br>
+[ Cross-Domain Activity Recognition ]()</br>
+[ Recognizing Activities in Multiple Contexts using Transfer Learning ]()</br>
+[ Transfer Learning for Activity Recognition via Sensor Mapping ]()</br>
+[ Cross-View Action Recognition via View Knowledge Transfer ]()</br>
+[ Domain adaptation via transfer component analysis ]()</br>
+[ Topology Preserving Domain Adaptation for Addressing Subject Based Variability in SEMG Signal ]()</br>
+[ Remember and Transfer what you have Learned �Recognizing Composite Activities based on Activity Spotting ]()</br>
+[ Transferring Knowledge of Activity Recognition across Sensor Networks ]()</br>
+[ Activity Recognition Based on Home to Home Transfer Learning ]()</br>
+[ Transferring Activities: Updating Human Behavior Analysis ]()</br>
+[ Cross-mobile ELM based Activity Recognition ]()</br>
+[ Cross-People Mobile-Phone Based Activity Recognition ]()</br>
+[ Self-taught clustering ]()</br>
+[ Self-taught Learning: Transfer Learning from Unlabeled Data ]()</br>
+[ Transferred Dimensionality Reduction ]()</br>
+[ Deep Transfer via Second-Order Markov Logic ]()</br>
+[ Automatic transfer of activity recognition capabilities between body-worn motion sensors: training newcomers to recognize locomotion ]()</br>
+[ Cross-Dataset Action Detection ]()</br>
+[ Activity Recognition from Physiological Data using Conditional Random Fields ]()</br>
+[ Heterogeneous Transfer Learning with RBMs ]()</br>
+[ Hong J H, Ramos J, Dey A K. Toward Personalized Activity Recognition Systems With a Semipopulation Approach[J]. IEEE Transactions on Human-Machine Systems, 2016, 46(1): 101-112. ]()</br>
+[ Morales F J O, Roggen D. Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations[C]//Proceedings of the 2016 ACM International Symposium on Wearable Computers. ACM, 2016: 92-99. ]()</br>
+
+
 - - -
 ### Survey
 https://www.youtube.com/watch?v=qD6iD4TFsdQ
