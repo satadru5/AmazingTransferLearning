@@ -1,5 +1,13 @@
 ### Resources about Transfer Learning
 
+- Domain Adaptation (Shallow)
+- Online transfer learning
+- Lifelong transfer learning
+- Heterogeneous Transfer Learning
+- Deep Transfer Learning
+- Deep Adversarial transfer learning
+- Transitive Transfer Learning
+
 _ _ _
 
 #### Table of contents
@@ -14,11 +22,11 @@ _ _ _
 
 ### Papers
 #### ICCV && ECCV:
-- 20171222 ICCV 2017 [Unified Deep Supervised Domain Adaptation and Generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf) | [Code](https://github.com/samotiian/CCSA)
+- ICCV 2017 [Unified Deep Supervised Domain Adaptation and Generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf) | [Code](https://github.com/samotiian/CCSA)
 
-- 20171201 ICCV-17 [When Unsupervised Domain Adaptation Meets Tensor Representations](http://openaccess.thecvf.com/content_iccv_2017/html/Lu_When_Unsupervised_Domain_ICCV_2017_paper.html)
+- ICCV-17 [When Unsupervised Domain Adaptation Meets Tensor Representations](http://openaccess.thecvf.com/content_iccv_2017/html/Lu_When_Unsupervised_Domain_ICCV_2017_paper.html)
 
-- 201711 ICCV-17 [Open set domain adaptation](http://openaccess.thecvf.com/content_iccv_2017/html/Busto_Open_Set_Domain_ICCV_2017_paper.html)
+- ICCV-17 [Open set domain adaptation](http://openaccess.thecvf.com/content_iccv_2017/html/Busto_Open_Set_Domain_ICCV_2017_paper.html)
 
 - ICCV-17 [Open set domain adaptation](http://openaccess.thecvf.com/content_iccv_2017/html/Busto_Open_Set_Domain_ICCV_2017_paper.html)
 
@@ -49,9 +57,9 @@ _ _ _
 - CVPR-14 [Learning and transferring mid-Level image representations using convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 
 #### NIPS
-- 20171128 NIPS-17 [Learning Multiple Tasks with Multilinear Relationship Networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks) 
+- NIPS-17 [Learning Multiple Tasks with Multilinear Relationship Networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks) 
 
-- 20171126 NIPS-17 [Label Efficient Learning of Transferable Representations acrosss Domains and Tasks](http://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks) 
+- NIPS-17 [Label Efficient Learning of Transferable Representations acrosss Domains and Tasks](http://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks) 
 
 - NIPS-17 [Learning Multiple Tasks with Multilinear Relationship Networks](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-deep-relationship-networks) 
 
@@ -61,9 +69,9 @@ _ _ _
 
 - NIPS-17 [JDOT: Joint distribution optimal transportation for domain adaptation](https://arxiv.org/pdf/1705.08848.pdf)
 
-- 20171222 NIPS 2017 [Few-Shot Adversarial Domain Adaptation](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
+- NIPS 2017 [Few-Shot Adversarial Domain Adaptation](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
-- 20171226 NIPS 2016 [Domain Separation Networks](http://papers.nips.cc/paper/6254-domain-separation-networks) | [Code](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
+- NIPS 2016 [Domain Separation Networks](http://papers.nips.cc/paper/6254-domain-separation-networks) | [Code](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
 
 - NIPS-16 [RTN: Unsupervised Domain Adaptation with Residual Transfer Networks](http://ise.thss.tsinghua.edu.cn/~mlong/doc/residual-transfer-network-nips16.pdf)
 
@@ -89,13 +97,13 @@ _ _ _
 - ICML-14 [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531.pdf)
 
 #### AAAI && IJCAI && ICLR
-- 20171210 AAAI-18 [Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/pdf/1710.03463.pdf) 
+- AAAI-18 [Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/pdf/1710.03463.pdf) 
 
-- 201711 ICLR-18 [GENERALIZING ACROSS DOMAINS VIA CROSS-GRADIENT TRAINING](https://openreview.net/pdf?id=r1Dx7fbCW)
+- ICLR-18 [GENERALIZING ACROSS DOMAINS VIA CROSS-GRADIENT TRAINING](https://openreview.net/pdf?id=r1Dx7fbCW)
 
-- 20180116 ICLR-18 [Stable Distribution Alignment using the Dual of the Adversarial Distance](https://arxiv.org/abs/1707.04046)
+- ICLR-18 [Stable Distribution Alignment using the Dual of the Adversarial Distance](https://arxiv.org/abs/1707.04046)
 
-- 20180110 AAAI-18  [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/abs/1707.01217)
+- AAAI-18  [Wasserstein Distance Guided Representation Learning for Domain Adaptation](https://arxiv.org/abs/1707.01217)
 
 - AAAI-18 [Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/pdf/1710.03463.pdf)
 
@@ -109,9 +117,12 @@ _ _ _
 
 
 #### Others && Arxiv
+- 20180126 arXiv [Online transfer learning by leveraging multiple source domains](https://link.springer.com/article/10.1007/s10115-016-1021-1)
+- 20180126 arXiv [Online Heterogeneous Transfer by Hedge Ensemble of Offline and Online Decisions](http://ieeexplore.ieee.org/document/8064213/)
+
 - 20180111 arXiv [Lifelong Learning for Sentiment Classification](https://arxiv.org/abs/1801.02808)
 
-- 20180111 arXiv  [Stable Distribution Alignment Using the Dual of the Adversarial Distance](https://arxiv.org/abs/1707.04046)
+- 20170711 arXiv  [Stable Distribution Alignment Using the Dual of the Adversarial Distance](https://arxiv.org/abs/1707.04046)
 
 - 20180110 arXiv [Close Yet Discriminative Domain Adaptation](https://arxiv.org/abs/1704.04235)
 
@@ -162,13 +173,22 @@ _ _ _
 - Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901)
 
 - Decaf: A deep convolutional activation feature for generic visual recognition (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
+- Correlation Alignment for Domain Adaptation [[pdf]](http://www.cs.uml.edu/%7Ebsun/papers/baochen_phd_thesis.pdf)
+
+#### Theory
+- [Analysis of Representations for Domain Adaptation](https://dl.acm.org/citation.cfm?id=2976474)
+- [A Theory of Learning from Different Domains](https://link.springer.com/article/10.1007/s10994-009-5152-4)
+- [Learning Bounds for Domain Adaptation](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
+- [A Hilbert Space Embedding for Distributions](https://link.springer.com/chapter/10.1007/978-3-540-75225-7_5)
+- [ A Kernel Two-Sample Test](http://www.jmlr.org/papers/v13/gretton12a.html)
+- [Optimal kernel choice for large-scale two-sample tests](http://papers.nips.cc/paper/4727-optimal-kernel-choice-for-large-scale-two-sample-tests)
 
 #### Action Recognition
-[ Visual event recognition in videos by learning from web data ]()</br>
-[ Importance weighted least-squares probabilistic classifier for covariate shiftAdaptation with application to human activity recognition ]()</br>
-[ Cost-sensitive Boosting for Concept Drift ]()</br>
-[ Boosting for Transfer Learning ]()</br>
-[ Interactive Event Search Through Transfer Learning ]()</br>
+- [ Visual event recognition in videos by learning from web data ]()</br>
+- [ Importance weighted least-squares probabilistic classifier for covariate shiftAdaptation with application to human activity recognition ]()</br>
+- [ Cost-sensitive Boosting for Concept Drift ]()</br>
+- [ Boosting for Transfer Learning ]()</br>
+- [ Interactive Event Search Through Transfer Learning ]()</br>
 [ Cross-Domain Activity Recognition ]()</br>
 [ Recognizing Activities in Multiple Contexts using Transfer Learning ]()</br>
 [ Transfer Learning for Activity Recognition via Sensor Mapping ]()</br>
@@ -195,18 +215,20 @@ _ _ _
 
 - - -
 ### Survey
-https://www.youtube.com/watch?v=qD6iD4TFsdQ
-- [Transitive transfer learning](https://pan.baidu.com/s/1qYl2XPU)
-- [Distant Domain Transfer Learning](https://pan.baidu.com/s/1qYl2XPU)
-- [A survey on transfer learning](https://pan.baidu.com/s/1qYl2XPU)
-- [A survey on transfer learning](http://www3.ntu.edu.sg/home/sinnopan/publications/TLsurvey_0822.pdf)
+- 2017 [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374)
 - [Cross-dataset recognition: a survey](https://arxiv.org/abs/1705.04396)
 - [A survey on multi-task learning](https://arxiv.org/abs/1707.08114)
-- [Transfer Learning and Reinforcement Learning](https://pan.baidu.com/s/1qYl2XPU)。
+- [A survey on heterogeneous transfer learning](https://link.springer.com/article/10.1186/s40537-017-0089-0)
+- [Transitive transfer learning](https://pan.baidu.com/s/1qYl2XPU)
+- [Distant Domain Transfer Learning](https://pan.baidu.com/s/1qYl2XPU)
+- [A survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6)
+- [A survey on transfer learning](http://www3.ntu.edu.sg/home/sinnopan/publications/TLsurvey_0822.pdf)
+- [Cross-dataset recognition: a survey](https://arxiv.org/abs/1705.04396)
+- [Transfer Learning for Reinforcement Learning Domains: A Survey](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)。
 - [A survey of multi-domain transfer learning](https://pan.baidu.com/s/1qYl2XPU)
 - [Computer Vision domain adaptation survey](https://pan.baidu.com/s/1qYl2XPU)。
 - [Theoretical Analysis](https://pan.baidu.com/s/1qYl2XPU)
-
+- 2018 [ Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601)
 _ _ _
 
 ### Codes && Blogs
@@ -223,6 +245,13 @@ _ _ _
 - [Lixin Duan](http://www.lxduan.info/)
 - [Fuzhen Zhuang](http://www.intsci.ac.cn/users/zhuangfuzhen/)：[[Google scholar](https://scholar.google.com/citations?user=klJBYrAAAAAJ&hl=zh-CN&oi=ao)]
 - [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)：[[Google scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=mingsheng+long&hl=zh-CN&oi=ao)]
+- [Alex Smola](https://alex.smola.org/index.html)
+- [Arthur Gretton](http://www.gatsby.ucl.ac.uk/%7Egretton/)
+- [Kilian Q. Weinberger](https://www.cs.cornell.edu/%7Ekilian/)
+- [Fei Sha](http://www-bcf.usc.edu/%7Efeisha/)
+- [Baochen Sun]()
+- [Judy Hoffman](https://people.eecs.berkeley.edu/~jhoffman/)
+- [Ying Wei]()
 - - -
 
 #### Popular methods
