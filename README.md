@@ -22,11 +22,9 @@ _ _ _
 
 ### Papers
 #### ICCV && ECCV:
-- ICCV 2017 [Unified Deep Supervised Domain Adaptation and Generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf) | [Code](https://github.com/samotiian/CCSA)
+- ICCV-17 [Unified Deep Supervised Domain Adaptation and Generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf) | [Code](https://github.com/samotiian/CCSA)
 
 - ICCV-17 [When Unsupervised Domain Adaptation Meets Tensor Representations](http://openaccess.thecvf.com/content_iccv_2017/html/Lu_When_Unsupervised_Domain_ICCV_2017_paper.html)
-
-- ICCV-17 [Open set domain adaptation](http://openaccess.thecvf.com/content_iccv_2017/html/Busto_Open_Set_Domain_ICCV_2017_paper.html)
 
 - ICCV-17 [Open set domain adaptation](http://openaccess.thecvf.com/content_iccv_2017/html/Busto_Open_Set_Domain_ICCV_2017_paper.html)
 
@@ -189,28 +187,28 @@ _ _ _
 - [ Cost-sensitive Boosting for Concept Drift ]()</br>
 - [ Boosting for Transfer Learning ]()</br>
 - [ Interactive Event Search Through Transfer Learning ]()</br>
-[ Cross-Domain Activity Recognition ]()</br>
-[ Recognizing Activities in Multiple Contexts using Transfer Learning ]()</br>
-[ Transfer Learning for Activity Recognition via Sensor Mapping ]()</br>
-[ Cross-View Action Recognition via View Knowledge Transfer ]()</br>
-[ Domain adaptation via transfer component analysis ]()</br>
-[ Topology Preserving Domain Adaptation for Addressing Subject Based Variability in SEMG Signal ]()</br>
-[ Remember and Transfer what you have Learned �Recognizing Composite Activities based on Activity Spotting ]()</br>
-[ Transferring Knowledge of Activity Recognition across Sensor Networks ]()</br>
-[ Activity Recognition Based on Home to Home Transfer Learning ]()</br>
-[ Transferring Activities: Updating Human Behavior Analysis ]()</br>
-[ Cross-mobile ELM based Activity Recognition ]()</br>
-[ Cross-People Mobile-Phone Based Activity Recognition ]()</br>
-[ Self-taught clustering ]()</br>
-[ Self-taught Learning: Transfer Learning from Unlabeled Data ]()</br>
-[ Transferred Dimensionality Reduction ]()</br>
-[ Deep Transfer via Second-Order Markov Logic ]()</br>
-[ Automatic transfer of activity recognition capabilities between body-worn motion sensors: training newcomers to recognize locomotion ]()</br>
-[ Cross-Dataset Action Detection ]()</br>
-[ Activity Recognition from Physiological Data using Conditional Random Fields ]()</br>
-[ Heterogeneous Transfer Learning with RBMs ]()</br>
-[ Hong J H, Ramos J, Dey A K. Toward Personalized Activity Recognition Systems With a Semipopulation Approach[J]. IEEE Transactions on Human-Machine Systems, 2016, 46(1): 101-112. ]()</br>
-[ Morales F J O, Roggen D. Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations[C]//Proceedings of the 2016 ACM International Symposium on Wearable Computers. ACM, 2016: 92-99. ]()</br>
+- [ Cross-Domain Activity Recognition ]()</br>
+- [ Recognizing Activities in Multiple Contexts using Transfer Learning ]()</br>
+- [ Transfer Learning for Activity Recognition via Sensor Mapping ]()</br>
+- [ Cross-View Action Recognition via View Knowledge Transfer ]()</br>
+- [ Domain adaptation via transfer component analysis ]()</br>
+- [ Topology Preserving Domain Adaptation for Addressing Subject Based Variability in SEMG Signal ]()</br>
+- [ Remember and Transfer what you have Learned �Recognizing Composite Activities based on Activity Spotting ]()</br>
+- [ Transferring Knowledge of Activity Recognition across Sensor Networks ]()</br>
+- [ Activity Recognition Based on Home to Home Transfer Learning ]()</br>
+- [ Transferring Activities: Updating Human Behavior Analysis ]()</br>
+- [ Cross-mobile ELM based Activity Recognition ]()</br>
+- [ Cross-People Mobile-Phone Based Activity Recognition ]()</br>
+- [ Self-taught clustering ]()</br>
+- [ Self-taught Learning: Transfer Learning from Unlabeled Data ]()</br>
+- [ Transferred Dimensionality Reduction ]()</br>
+- [ Deep Transfer via Second-Order Markov Logic ]()</br>
+- [ Automatic transfer of activity recognition capabilities between body-worn motion sensors: training newcomers to recognize locomotion ]()</br>
+- [ Cross-Dataset Action Detection ]()</br>
+- [ Activity Recognition from Physiological Data using Conditional Random Fields ]()</br>
+- [ Heterogeneous Transfer Learning with RBMs ]()</br>
+- [ Hong J H, Ramos J, Dey A K. Toward Personalized Activity Recognition Systems With a Semipopulation Approach[J]. IEEE Transactions on Human-Machine Systems, 2016, 46(1): 101-112. ]()</br>
+- [ Morales F J O, Roggen D. Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations[C]//Proceedings of the 2016 ACM International Symposium on Wearable Computers. ACM, 2016: 92-99. ]()</br>
 
 
 - - -
